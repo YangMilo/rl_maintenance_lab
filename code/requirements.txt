@@ -1,0 +1,4 @@
+# 특강 PART 4 실습 라이브러리 (2026년 10월 확인: gymnasium 1.4.0, numpy 2.5.4, matplotlib 3.11.2)
+gymnasium>=1.0
+numpy>=1.26
+matplotlib>=3.8
